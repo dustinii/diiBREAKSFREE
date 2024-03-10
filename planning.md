@@ -27,7 +27,8 @@ This guide outlines the key steps and considerations for developing a website fo
 
 **MVP Priorities***
 -> Client Intake Form
-    -
+    - Filer with associated SS number, dob, address, filing status, dependents (name, ssn, dob, relationship), and refered by
+    - Send info to email --> call client to make appt plan
 -> Appt Maker
     -
 -> Secure Client Portal
