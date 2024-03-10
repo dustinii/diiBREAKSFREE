@@ -24,3 +24,13 @@ This guide outlines the key steps and considerations for developing a website fo
 * SvelteKit
 * DaisyUI
 * MySQL
+
+**MVP Priorities***
+-> Client Intake Form
+    -
+-> Appt Maker
+    -
+-> Secure Client Portal
+    - Upload documents and view own case
+-> Encrypted Email
+    - cuz... lol... using Yahoo for taxes???
