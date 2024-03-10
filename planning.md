@@ -24,3 +24,11 @@ This guide outlines the key steps and considerations for developing a website fo
 * SvelteKit
 * DaisyUI
 * MySQL
+
+**MVP Priority List***
+--- Client Intake form --- 
+  -  filer with associated SS number, dob, address, filing status, dependents (name, ssn, dob, relationship), and refered by
+  -  send info to email -> call client to make appt plan
+--- Appt Maker ---
+--- Secure Client Portal ---
+--- Encrypted Email ---
